@@ -1,0 +1,32 @@
+2023-01-09 12:29:00,525 - user.user_logger - INFO - Entering the user creation method
+2023-01-09 12:29:00,686 - user.user_logger - INFO - decrypting the password
+2023-01-09 12:29:00,963 - user.user_logger - INFO - decrypting the password
+2023-01-09 12:29:01,222 - user.user_logger - INFO - User successfully created
+2023-01-09 12:29:04,962 - user.user_logger - INFO - Entering the user creation method
+2023-01-09 12:29:19,639 - user.user_logger - INFO - Entering the user creation method
+2023-01-09 12:29:38,400 - user.user_logger - INFO - Entering the user creation method
+2023-01-09 12:29:38,452 - user.user_logger - INFO - decrypting the password
+2023-01-09 12:29:38,710 - user.user_logger - INFO - decrypting the password
+2023-01-09 12:29:38,964 - user.user_logger - INFO - User successfully created
+2023-01-09 17:15:17,855 - user.user_logger - INFO - finding the user object for the id 
+2023-01-09 17:15:17,907 - user.user_logger - INFO - user object found for the id 
+2023-01-09 17:17:20,173 - user.user_logger - INFO - finding the user object for the id 
+2023-01-09 17:17:59,033 - user.user_logger - INFO - finding the user object for the id 
+2023-01-09 17:43:21,696 - user.user_logger - INFO - finding the user object for the id 
+2023-01-09 17:43:21,697 - user.user_logger - ERROR - Invalid value for the key id admin
+2023-01-09 17:44:03,584 - user.user_logger - INFO - finding the user object for the id 
+2023-01-09 17:44:03,585 - user.user_logger - ERROR - Invalid value for the key id admin
+2023-01-09 17:44:13,691 - user.user_logger - INFO - finding the user object for the id 
+2023-01-09 17:44:13,742 - user.user_logger - INFO - user object found for the id 
+2023-01-09 17:57:03,379 - user.user_logger - INFO - Entering the user creation method
+2023-01-09 17:58:04,999 - user.user_logger - INFO - finding the user object for the id 
+2023-01-09 17:58:33,953 - user.user_logger - INFO - finding the user object for the id 
+2023-01-09 17:58:34,002 - user.user_logger - ERROR - No data found for the user of id 21
+2023-01-09 17:58:57,866 - user.user_logger - INFO - finding the user object for the id 
+2023-01-09 17:58:57,916 - user.user_logger - ERROR - No data found for the user of id 21
+2023-01-09 17:59:22,737 - user.user_logger - INFO - finding the user object for the id 
+2023-01-09 17:59:22,787 - user.user_logger - ERROR - No data found for the user of id 21
+2023-01-09 18:59:49,658 - user.user_logger - INFO - finding the user object for the id 
+2023-01-09 18:59:49,707 - user.user_logger - ERROR - No data found for the user of id 21
+2023-01-09 18:59:53,342 - user.user_logger - INFO - finding the user object for the id 
+2023-01-09 18:59:53,388 - user.user_logger - INFO - user object found for the id 
