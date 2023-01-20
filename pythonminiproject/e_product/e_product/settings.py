@@ -40,7 +40,8 @@ INSTALLED_APPS = [
     'offer',
     'product',
     'shop',
-    'user'
+    'user',
+    'flipkart'
 ]
 
 SILENCED_SYSTEM_CHECKS = ['fields.E300', 'fields.E307']
@@ -81,7 +82,7 @@ WSGI_APPLICATION = 'e_product.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'e_product_comparison',
+        'NAME': 'e_product',
         'USER': 'postgres',
         'PASSWORD': 'dhanesh@22',
         'HOST': 'localhost',

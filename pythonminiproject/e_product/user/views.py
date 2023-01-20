@@ -15,6 +15,7 @@ from .user_logger import logger
 
 # Create your views here.
 class UserViewSet(ModelViewSet):
+    logger.info('Into the user view set')
     """
      A view set that provides `create()`, `retrieve()`, `update()`,
     `list()` actions for the user model instance

@@ -12,11 +12,13 @@ from .shop_logger import logger
 
 # Create your views here.
 class ShopViewSet(ModelViewSet):
+    logger.info('into the shop module')
+
     """
      A view set that provides `create()`, `retrieve()`, `update()`,
     `list()` actions for the shop model instance
     """
-    logger.info('into the shop module')
+
     queryset = Shop.objects.filter(is_active=True)
     serializer_class = ShopDetailsSerializer
 

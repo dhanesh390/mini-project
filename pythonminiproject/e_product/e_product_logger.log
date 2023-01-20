@@ -1,0 +1,53 @@
+
+2023-01-10 11:52:08,614 - shop.shop_logger - INFO - into the shop module
+2023-01-10 11:53:21,153 - user.user_logger - INFO - Into the user view set
+2023-01-10 11:53:21,157 - shop.shop_logger - INFO - into the shop module
+2023-01-10 11:53:21,694 - user.user_logger - INFO - Into the user view set
+2023-01-10 11:53:21,698 - shop.shop_logger - INFO - into the shop module
+2023-01-10 11:54:15,112 - user.user_logger - INFO - Into the user view set
+2023-01-10 11:54:15,120 - shop.shop_logger - INFO - into the shop module
+2023-01-10 11:54:15,152 - user.user_logger - INFO - Into the user view set
+2023-01-10 11:54:15,157 - shop.shop_logger - INFO - into the shop module
+2023-01-10 12:43:18,953 - user.user_logger - INFO - Into the user view set
+2023-01-10 12:43:18,958 - shop.shop_logger - INFO - into the shop module
+2023-01-10 12:44:43,781 - user.user_logger - INFO - Into the user view set
+2023-01-10 12:44:43,785 - shop.shop_logger - INFO - into the shop module
+2023-01-10 12:47:18,248 - user.user_logger - INFO - Into the user view set
+2023-01-10 12:47:18,252 - shop.shop_logger - INFO - into the shop module
+2023-01-10 12:47:26,221 - user.user_logger - INFO - Into the user view set
+2023-01-10 12:47:26,225 - shop.shop_logger - INFO - into the shop module
+2023-01-11 11:55:06,275 - user.user_logger - INFO - Into the user view set
+2023-01-11 11:55:06,284 - shop.shop_logger - INFO - into the shop module
+2023-01-11 11:55:16,311 - user.user_logger - INFO - Into the user view set
+2023-01-11 11:55:16,316 - shop.shop_logger - INFO - into the shop module
+2023-01-11 11:57:29,330 - user.user_logger - INFO - Into the user view set
+2023-01-11 11:57:29,335 - shop.shop_logger - INFO - into the shop module
+2023-01-11 11:58:20,937 - user.user_logger - INFO - Into the user view set
+2023-01-11 11:58:20,943 - shop.shop_logger - INFO - into the shop module
+2023-01-11 11:58:31,037 - user.user_logger - INFO - Into the user view set
+2023-01-11 11:58:31,043 - shop.shop_logger - INFO - into the shop module
+2023-01-11 12:00:25,347 - user.user_logger - INFO - Into the user view set
+2023-01-11 12:00:25,353 - shop.shop_logger - INFO - into the shop module
+2023-01-11 12:03:42,857 - user.user_logger - INFO - Into the user view set
+2023-01-11 12:03:42,863 - shop.shop_logger - INFO - into the shop module
+2023-01-11 12:04:06,550 - user.user_logger - INFO - Into the user view set
+2023-01-11 12:04:06,555 - shop.shop_logger - INFO - into the shop module
+2023-01-11 12:04:12,495 - user.user_logger - INFO - Into the user view set
+2023-01-11 12:04:12,499 - shop.shop_logger - INFO - into the shop module
+2023-01-11 12:04:58,551 - user.user_logger - INFO - Into the user view set
+2023-01-11 12:04:58,556 - shop.shop_logger - INFO - into the shop module
+2023-01-11 12:06:28,756 - user.user_logger - INFO - Entering the user creation method
+2023-01-11 12:06:28,852 - user.user_logger - INFO - decrypting the password
+2023-01-11 12:06:29,408 - user.user_logger - INFO - decrypting the password
+2023-01-11 12:06:29,995 - user.user_logger - INFO - User successfully created
+2023-01-11 12:06:37,950 - user.user_logger - INFO - Entering the user creation method
+2023-01-11 12:06:38,032 - user.user_logger - INFO - decrypting the password
+2023-01-11 12:06:38,630 - user.user_logger - INFO - decrypting the password
+2023-01-11 12:06:39,230 - user.user_logger - INFO - User successfully created
+2023-01-11 12:37:55,833 - user.user_logger - INFO - Into the user view set
+2023-01-11 12:37:55,833 - shop.shop_logger - INFO - into the shop module
+2023-01-11 12:38:06,901 - shop.shop_logger - INFO - Entering the shop creation module
+2023-01-11 12:38:14,684 - shop.shop_logger - INFO - Entering the shop creation module
+2023-01-11 12:38:37,079 - user.user_logger - INFO - Entering the user creation method
+2023-01-11 12:38:43,595 - user.user_logger - INFO - Entering the user creation method
+2023-01-11 15:16:55,426 - user.user_logger - INFO - Entering the user creation method
